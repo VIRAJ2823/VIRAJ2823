@@ -87,3 +87,5 @@ Building scalable web applications using Python (Flask/FastAPI) and modern front
 - Real-world problem solving apps
 
 📩 **Reach out:** [virajbalfe@gmail.com](mailto:virajbalfe@gmail.com)
+🔗 LinkedIn: https://www.linkedin.com/in/viraj-balfe-5032b8343
+📱 Phone: +91 9022386885
