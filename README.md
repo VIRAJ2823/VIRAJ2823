@@ -16,7 +16,11 @@
 * Preparing for top-tier tech internships
 
 ---
-
+## 🚧 Featured Projects
+- 🔹 SaaS Web App (Flask + MongoDB + Auth System)
+- 🔹 API Performance Analyzer (Backend Optimization Tool)
+- 🔹 DSA Implementations (Optimized & Structured Code)
+- 
 ##  Tech Stack
 
 **Languages:** Python, JavaScript, TypeScript, C
