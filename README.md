@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 I'm currently working on<br><br>Building a SaaS web application while mastering full-stack development<br><br>I'm looking to collaborate on<br><br>Innovative startup ideas and early-stage projects<br>Web applications that solve real-world problems<br><br>I'm looking for help with<br><br>Backend architecture design and best practices<br>Scaling Flask applications efficiently<br><br>I'm currently learning<br><br>Flask framework and Python backend development<br>Completing my web development foundation (HTML, CSS, JavaScript)<br>AI & ML on my learning roadmap (next up after web dev!)<br><br>Ask me about<br><br>Getting started with Flask and Python<br>Frontend development fundamentals<br>Balancing startup building with continuous learning<br><br>Fun fact<br><br>I'm on a mission: Master Web Dev → Dive into AI/ML → Build intelligent products! Currently checkpoint 1!
 
 
