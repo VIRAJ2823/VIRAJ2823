@@ -1,5 +1,5 @@
 # Viraj Balfe
-### Full-Stack Developer | System Architect | AI/ML Enthusiast
+### Full-Stack Developer |  AI/ML Enthusiast | System Architect 
 
 Building scalable web applications with Python (Flask/FastAPI) and modern frontend stacks. Currently developing a SaaS product while diving deep into Machine Learning and intelligent systems. Passionate about backend architecture, distributed systems, and solving real-world problems with AI.
 
