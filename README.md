@@ -5,7 +5,7 @@ Building scalable web applications with Python (Flask/FastAPI) and modern fronte
 
 ---
 
-## 🎯 What I'm Focused On
+##  What I'm Focused On
 
 - Designing scalable backend systems (APIs, databases, microservices architecture)
 - Building production-ready SaaS products
@@ -15,7 +15,7 @@ Building scalable web applications with Python (Flask/FastAPI) and modern fronte
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 ### Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -48,7 +48,7 @@ Building scalable web applications with Python (Flask/FastAPI) and modern fronte
 ---
 
 
-## 🚀 Featured Projects (Work in Progress)
+##  Featured Projects (Work in Progress)
 
 ### 🔹 SaaS Web Application
 - Full-stack product with authentication, dashboard, and RESTful APIs
@@ -69,7 +69,7 @@ Building scalable web applications with Python (Flask/FastAPI) and modern fronte
 
 ---
 
-## 🎯 Current Mission
+##  Current Mission
 
 **Phase 1:** Master Full-Stack Development ✅ (In Progress)  
 **Phase 2:** Deep Dive into AI/ML 🤖 (Currently Learning)  
@@ -77,11 +77,11 @@ Building scalable web applications with Python (Flask/FastAPI) and modern fronte
 
 ---
 
-## 🤝 Let's Collaborate
+##  Let's Collaborate
 
-- Startup ideas 💡
-- SaaS products 🚀
-- AI/ML projects 🤖
+- Startup ideas 
+- SaaS products 
+- AI/ML projects 
 - Real-world problem-solving applications
 
-📩 **Reach out:** [virajbalfe@gmail.com](mailto:virajbalfe@gmail.com)
+ **Reach out:** [virajbalfe@gmail.com](mailto:virajbalfe@gmail.com)
