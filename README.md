@@ -47,15 +47,6 @@ Building scalable web applications with Python (Flask/FastAPI) and modern fronte
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.shion.dev/api?username=VIRAJ2823&theme=aura&hide_border=false&include_all_commits=true&count_private=false)
-
-![](https://streak-stats.demolab.com/?user=VIRAJ2823&theme=aura&hide_border=false)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=VIRAJ2823&theme=aura&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
 
 ## 🚀 Featured Projects (Work in Progress)
 
