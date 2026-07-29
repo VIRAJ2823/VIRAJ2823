@@ -5,15 +5,6 @@ Building scalable web applications with Python (Flask/FastAPI) and modern fronte
 
 ---
 
-##  What I'm Focused On
-
-- Designing scalable backend systems (APIs, databases, microservices architecture)
-- Building production-ready SaaS products
-- Exploring Machine Learning & AI fundamentals
-- Strengthening Data Structures & Algorithms
-- Preparing for top-tier tech internships
-
----
 
 ##  Tech Stack
 
@@ -48,34 +39,8 @@ Building scalable web applications with Python (Flask/FastAPI) and modern fronte
 ---
 
 
-##  Featured Projects (Work in Progress)
 
-### 🔹 SaaS Web Application
-- Full-stack product with authentication, dashboard, and RESTful APIs
-- Backend: Flask / FastAPI with SQLAlchemy ORM
-- Focus: scalability, clean architecture, and production-ready deployment
 
-### 🔹 DSA Practice System
-- Implementations of core data structures and algorithms
-- Focus on performance optimization and competitive programming
-
-### 🔹 Machine Learning Projects
-- Exploring supervised/unsupervised learning models
-- Building intelligent systems with real-world applications
-
-### 🔹 Full-Stack Web Apps
-- Responsive UI + API integration
-- Real-world problem solving with modern tech stacks
-
----
-
-##  Current Mission
-
-**Phase 1:** Master Full-Stack Development ✅ (In Progress)  
-**Phase 2:** Deep Dive into AI/ML 🤖 (Currently Learning)  
-**Phase 3:** Build Intelligent, Scalable Systems 🚀
-
----
 
 ##  Let's Collaborate
 
