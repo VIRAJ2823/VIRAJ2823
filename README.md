@@ -6,12 +6,6 @@ Building scalable web applications with **Python (Flask/FastAPI)** and modern fr
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VIRAJ2823&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VIRAJ2823&layout=compact&theme=radical&hide_border=true)
-
----
 
 ## 🛠️ Tech Stack
 
