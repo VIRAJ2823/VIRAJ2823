@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Viraj Balfe
+#  Hi, I'm Viraj 
 
 ### Full-Stack Developer | AI/ML Enthusiast | System Architect | SaaS Builder
 
