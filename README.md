@@ -78,9 +78,21 @@ I'm interested in collaborating on:
 - 🌍 Real-world problem-solving solutions
 - 📊 Data-driven applications
 
-**Feel free to reach out!**
+
 
 ---
+
+
+## 📈 Stats & Activity
+
+
+-  Focused on Full-Stack Development & AI/ML
+-  Continuously learning and growing
+-  Building projects that matter
+
+---
+
+**Feel free to reach out!**
 
 ## 📫 Connect With Me
 
@@ -89,16 +101,6 @@ I'm interested in collaborating on:
 - **Portfolio:** [Check out my projects](https://github.com/VIRAJ2823?tab=repositories)
 
 ---
-
-## 📈 Stats & Activity
-
-- 🏆 6 Public Repositories
-- 📝 Focused on Full-Stack Development & AI/ML
-- 🌱 Continuously learning and growing
-- 💪 Building projects that matter
-
----
-
 <p align="center">
   <i>"Code is poetry written for computers and read by humans." - Stack Overflow</i>
 </p>
